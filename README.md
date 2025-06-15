@@ -10,7 +10,9 @@ TaskMaster is a minimalistic website designed to help you manage your tasks effi
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<img src="./assets/" width="80%">
+<video width="80%" controls autoplay muted loop>
+  <source src="./assets/vdo.mov" type="video/mov">
+</video>
 
 </div>
 
