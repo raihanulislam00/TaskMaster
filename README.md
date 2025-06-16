@@ -134,7 +134,7 @@ This project is deployed on Vercel. To deploy your own version:
 
 ## 📄 License
 
-TaskMaster is released under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
+TaskMaster is released under the [MIT License](https://github.com/raihanulislam00/TaskMaster/blob/main/LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## 👨‍💻 Author
 
